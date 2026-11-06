@@ -1,0 +1,9 @@
+data/
+index/
+results/
+__pycache__/
+*.pyc
+.env
+*.rar
+*.zip
+*.7z
